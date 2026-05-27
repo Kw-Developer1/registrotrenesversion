@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "date": "Mayo 2026",
+  "changes": [
+    { "type": "launch", "text": "Lanzamiento inicial de ARGOS" },
+    { "type": "new",    "text": "Registro de trenes con Niren, Serie y Rama" },
+    { "type": "new",    "text": "Historial por usuario" },
+    { "type": "new",    "text": "Autenticación por matrícula" }
+  ]
+}
