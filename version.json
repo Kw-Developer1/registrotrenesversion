@@ -2,6 +2,9 @@
   "version": "1.1.1",
   "date": "Mayo 2026",
   "changes": [
-    { "type": "launch", "text": "Lanzamiento inicial de ARGOS" },
+    { "type": "new", "text": "Modo oscuro y modo claro en ajustes" },
+    { "type": "new", "text": "Notificaciones push de nuevas versiones" },
+    { "type": "new", "text": "Filtros en el historial" },
+    { "type": "new", "text": "Exportar historial a CSV" }
   ]
 }
