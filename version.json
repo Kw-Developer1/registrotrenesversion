@@ -1,16 +1,7 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.2",
   "date": "Mayo 2026",
   "changes": [
-    { "type": "fix",  "text": "Corrección del Service Worker: ahora invalida la caché correctamente al actualizar archivos" },
-    { "type": "fix",  "text": "El modo oscuro y las preferencias del usuario ya no se pierden al recibir una actualización" },
-    { "type": "new",  "text": "Auto-login: la sesión se restaura automáticamente al recargar la página" },
-    { "type": "fix",  "text": "Búsqueda de estaciones corregida: el CSV se decodifica en ISO-8859-1 para leer tildes correctamente" },
-    { "type": "fix",  "text": "Corrección de la función normalizar(): los acentos ahora se eliminan correctamente al buscar" },
-    { "type": "new",  "text": "Estaciones desconocidas: al escribir un código que no existe se puede añadir el nombre manualmente" },
-    { "type": "new",  "text": "Las estaciones añadidas manualmente se guardan en Supabase para todos los usuarios" },
-    { "type": "fix",  "text": "Borrado de registros: ahora se verifica que la operación se completó realmente en Supabase" },
-    { "type": "new",  "text": "Exportación en tres formatos: Excel (.xlsx), PDF (.pdf) y CSV (.csv)" },
-    { "type": "new",  "text": "El PDF exportado incluye cabecera con colores ARGOS, filas alternadas y pie de página" }
+      { "type": "bug",  "text": "Correccion de origen y destino CSV" }
   ]
 }
