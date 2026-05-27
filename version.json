@@ -2,6 +2,6 @@
   "version": "1.2.2",
   "date": "Mayo 2026",
   "changes": [
-      { "type": "bug",  "text": "Correccion de origen y destino CSV" }
+      { "type": "bug",  "text": "Añadido Grupo Whatsapp" }
   ]
 }
