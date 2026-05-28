@@ -1,26 +1,10 @@
 {
-  "version": "1.2.9",
+  "version": "1.3.0",
   "date": "Mayo de 2026",
   "changes": [
     {
-      "type": "feature",
-      "text": "Añadido nuevas estaciones"
-    },
-    {
-      "type": "ui",
-      "text": "Mejora del sistema de estadisticas"
-    },
-    {
-      "type": "bug",
-      "text": "Corregida la visualizacion de estadisticas"
-    },
-    {
-      "type": "bug",
-      "text": "Arreglado fecha historiales"
-    },
-    {
-      "type": "bug",
-      "text": "Arreglada la ultima linea"
+      "type": "new",
+      "text": "Añadido boton Ultima Vez"
     }
   ]
 }
