@@ -1,7 +1,11 @@
 {
-  "version": "1.2.2",
+  "version": "1.2.5",
   "date": "Mayo 2026",
   "changes": [
-      { "type": "bug",  "text": "Añadido Grupo Whatsapp" }
+    { "type": "feature", "text": "Añadido botón de acceso directo a la Última Línea en el panel principal" },
+    { "type": "bug",     "text": "Corregida consulta de la última línea mapeando correctamente el usuario (usuario_id)" },
+    { "type": "ui",      "text": "Mejorada la fuente y proporciones del número de tren en el historial para evitar distorsiones" },
+    { "type": "feature", "text": "Optimizado el formato visual y flujo de los campos de Origen y Destino" },
+    { "type": "feature", "text": "Añadido botón y enlace de acceso al Grupo de WhatsApp" }
   ]
 }
