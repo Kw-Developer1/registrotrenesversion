@@ -1,11 +1,9 @@
 {
-  "version": "1.2.6",
+  "version": "1.2.7",
   "date": "Mayo 2026",
   "latest": true,
   "changes": [
-{ "type": "feature", "text": "Añadido logo Argos" },
-    { "type": "error",     "text": "Arreglado Niren x Nº Tren" },
-    { "type": "ui",      "text": "Mejorado fuentes x2" },
-    { "type": "feature", "text": "Optimizado el formato visual y flujo de los campos de Origen y Destino" }
+{ "type": "feature", "text": "Añadido Nuevas estaciones" },
+    { "type": "error",     "text": "Arreglado Niren PDF historial" }
   ]
 }
