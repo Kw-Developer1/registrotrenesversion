@@ -1,10 +1,18 @@
 {
-  "version": "1.3.0",
+  "version": "1.3.1",
   "date": "Mayo de 2026",
   "changes": [
     {
       "type": "new",
-      "text": "Añadido boton Ultima Vez"
+      "text": "Añadido ver pantalla de informacion"
+    },
+    {
+      "type": "ui",
+      "text": "Añadido mejora de botones y cambio de fuente"
+    },
+    {
+      "type": "new",
+      "text": "Añadido mas series y ramas"
     }
   ]
 }
