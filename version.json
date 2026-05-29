@@ -1,18 +1,10 @@
 {
-  "version": "1.3.2",
+  "version": "1.3.3",
   "date": "Mayo de 2026",
   "changes": [
     {
-      "type": "new",
-      "text": "Añadido ver pantalla de informacion"
-    },
-    {
       "type": "ui",
-      "text": "Añadido mejora de botones y cambio de fuente"
-    },
-    {
-      "type": "new",
-      "text": "Añadido mas series y ramas"
+      "text": "Arreglo de todo"
     }
   ]
 }
